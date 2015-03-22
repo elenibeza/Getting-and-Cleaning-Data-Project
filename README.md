@@ -23,9 +23,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ##Generate Dataset
 
-Run the script run_analysis.R in the Repo.
-
-source("run_analysis.R")
+Run the script run_analysis.R in the Repo - "run_analysis.R"
 
 This will download the required package (plyr) and the required data from (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and store it in a zip file called data.zip. 
 Then a new folder will be generated  (results/) containing the two datasets.
