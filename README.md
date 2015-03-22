@@ -39,4 +39,5 @@ The data is located in the results folder
 dataset1 <- read.csv("results/dataset1.csv") 
 dataset2 <- read.csv("results/dataset2.csv") 
 
+# final tidy dataset as text file
 The tidy data is saved as text file as dataset3.txt in the same folder.
